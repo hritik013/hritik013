@@ -54,7 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hritik013/hritik013/output/snake.svg" alt="Snake animation" />
 
 ###
 
