@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hritik Rawat...</h2>
+<h2 align="left">Hi 👋! My name is Hritik Rawat.., a B.Tech Software Engineering student in my 3rd year. I specialize in C++ but love exploring various technologies and programming languages. My projects reflect a passion for problem-solving and continuous learning—check them out!</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif"  />
 
 ###
 
