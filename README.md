@@ -5,7 +5,7 @@
 </div>
 
 ## 🖐️ About Me
-- My name is **Hritik Rawat** <img src="https://pin.it/4fZEbcZ8r" width="120" align="right"/>
+- My name is **Hritik Rawat** <img src="[https://pin.it/4fZEbcZ8r](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)" width="120" align="right"/>
 - Currently **Final-year B.Tech Computer Science Engineering student**
 - Primary focus: **Problem Solving, Full-Stack Development & Core CS**
 - Deep interest in **Data Structures & Algorithms and system fundamentals**
