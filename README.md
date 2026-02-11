@@ -5,7 +5,7 @@
 </div>
 
 ## 🖐️ About Me
-- My name is **Hritik Rawat** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtMDdiODNzdmt1aTNvbmphdXh2MmtwbjhzZG5tZTlla3NkaTRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" align="right"/>
+- My name is **Hritik Rawat** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtMDdiODNzdmt1aTNvbmphdXh2MmtwbjhzZG5tZTlla3NkaTRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150" align="right"/>
 - Currently **Final-year B.Tech Computer Science Engineering student**
 - Primary focus: **Problem Solving, Full-Stack Development & Core CS**
 - Deep interest in **Data Structures & Algorithms and system fundamentals**
