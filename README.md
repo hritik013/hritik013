@@ -1,15 +1,30 @@
-<h2 align="left">Hi 👋! My name is Hritik Rawat.., a B.Tech Software Engineering student in my 4th year. I specialize in C++ but love exploring various technologies and programming languages. My projects reflect a passion for problem-solving and continuous learning—check them out!</h2>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritik013&label=Profile%20views&color=0e75b6&style=flat" alt="hritik013" /> </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik013&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritik013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+      <img src="https://komarev.com/ghpvc/?username=hritik013&label=Profile%20views&color=0e75b6&style=flat" alt="hritik013" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/hritik013?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/hritik013?style=social">
 </div>
 
-###
+## 🖐️ About Me
+- My name is **Hritik Rawat** <img src="https://pin.it/4fZEbcZ8r" width="120" align="right"/>
+- Currently **Final-year B.Tech Computer Science Engineering student**
+- Primary focus: **Problem Solving, Full-Stack Development & Core CS**
+- Deep interest in **Data Structures & Algorithms and system fundamentals**
+- Actively working on **improving DSA consistency and building impactful real-world projects**
+- Curious about designing and developing scalable and practical applications
+- My quote is ***"It's never too late for me - never too late to start over, I know I can and I will"***
+
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.instagram.com/hritik..23?igsh=c3JxdzJiNjUwbGVv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="rawathritik19@gmmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,29 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/hritik..23?igsh=c3JxdzJiNjUwbGVv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rawathritik19@gmmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritik013/Anshritik013hikarawat14/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritik013/hritik013/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hritik013/hritik013/output/pacman-contribution-graph.svg">
+</picture>
 
 
-###
 
-<div align="left">
-</div>
+##
+> 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas and technology.._
 
-###
